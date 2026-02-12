@@ -1,7 +1,8 @@
 
 
 #####################################################################
-#report table generation using MNPflex-reports.pdf from MNPflex tool
+#report table generation for multiple samples
+#using MNPflex-report.pdf files from MNPflex tool
 #####################################################################
 
 
