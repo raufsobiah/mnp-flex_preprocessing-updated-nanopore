@@ -1,6 +1,6 @@
 <div align="left">
 
-<h1 style="display: inline-block;">Rapid-CNS2+MNPflex-methylation-classifiers</h1>
+<h1 style="display: inline-block;">Rapid-CNS2+MNPflex-nanopore</h1>
 </div>
 
 Rapid-CNS2 and MNPflex are brain/central nervous system (CNS) tumour methylation classifiers.
