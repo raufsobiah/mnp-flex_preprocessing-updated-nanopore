@@ -1,6 +1,6 @@
 <div align="left">
 
-<h1 style="display: inline-block;">mnp-flex_preprocessing-updated-nanopore</h1>
+<h1 style="display: inline-block;">Rapid-CNS2+MNPflex-methylation-classifiers for nanopore sequencing data (cfDNA and genomic DNA)</h1>
 </div>
 
 Rapid-CNS2 and MNPflex are brain/central nervous system (CNS) tumour methylation classifiers.
