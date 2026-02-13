@@ -18,7 +18,8 @@ The fork is based on nanopore sequencing data (for cfDNA and genomic DNA) that i
 - mnpflex_script="/mnp-flex_preprocessing-updated.sh"
 - mnpflex_bed="/MNP-flex.bed"
 
-* The input file for MNP-Flex API should be a tab separated (BED) file containing column names: "chr" "start" "end" "coverage" "methylation_percentage" "IlmnID"
+* The input file for MNP-Flex API should be a tab separated (BED) file containing column names:
+"chr" "start" "end" "coverage" "methylation_percentage" "IlmnID"
 #IlmnID -- Illumina InfiniumID for probe
 
 - Duplicate IlmnID check in:
